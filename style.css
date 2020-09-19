@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20em;
+    border-radius: 1em;
+    border: solid 1px black;
+    background-color: deepskyblue;
+}
+
+.title {
+    position: absolute;
+}
+
+#person-img {
+    border-radius: 50%;
+    height: 10em;
+    width: 10em;
+}
+
+body {
+    background-color: deeppink;
+}
